@@ -1,16 +1,34 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**JRiggles/JRiggles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![Static Badge](https://img.shields.io/badge/Python-0E1116?style=flat-square&logo=python)
+![Static Badge](https://img.shields.io/badge/LabVIEW-0E1116?style=flat-square&logo=labview)
+![Static Badge](https://img.shields.io/badge/Lua-0E1116?style=flat-square&logo=lua&logoColor=2C2D72)
+<!-- ![Static Badge](https://img.shields.io/badge/MicroPython-0E1116?style=flat-square&logo=micropython) -->
 
-Here are some ideas to get you started:
+### Web Dev
+![Static Badge](https://img.shields.io/badge/HTML-0E1116?style=flat-square&logo=html5)
+![Static Badge](https://img.shields.io/badge/Sass-0E1116?style=flat-square&logo=sass)
+![Static Badge](https://img.shields.io/badge/Pug-0E1116?style=flat-square&logo=pug)
+![Static Badge](https://img.shields.io/badge/Javascript-0E1116?style=flat-square&logo=javascript)
+![Static Badge](https://img.shields.io/badge/JQuery-0E1116?style=flat-square&logo=jquery)
+![Static Badge](https://img.shields.io/badge/PHP-0E1116?style=flat-square&logo=php)
+![Static Badge](https://img.shields.io/badge/Codepen-0E1116?style=flat-square&logo=codepen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+![Static Badge](https://img.shields.io/badge/VS%20Code-0E1116?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Static Badge](https://img.shields.io/badge/Aseprite-0E1116?style=flat-square&logo=aseprite)
+![Static Badge](https://img.shields.io/badge/cmd-0E1116?style=flat-square&logo=windows-terminal)
+![Static Badge](https://img.shields.io/badge/zsh-0E1116?style=flat-square&logo=zsh)
+![Static Badge](https://img.shields.io/badge/MS%20SQL%20Server-0E1116?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927)
+
+##
+
+### Trying to Learn
+![Static Badge](https://img.shields.io/badge/Crystal-0E1116?style=flat-square&logo=crystal)
+![Static Badge](https://img.shields.io/badge/Godot-0E1116?style=flat-square&logo=godot-engine)
+
+### Rusty With
+![Static Badge](https://img.shields.io/badge/Arduino-0E1116?style=flat-square&logo=arduino&logoColor=00878F)
+![Static Badge](https://img.shields.io/badge/C++-0E1116?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Static Badge](https://img.shields.io/badge/Ruby-0E1116?style=flat-square&logo=ruby&logoColor=CC342D)
