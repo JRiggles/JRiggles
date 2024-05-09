@@ -1,5 +1,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[My Resume](https://standardresume.co/r/JRiggles)
+
 ![Static Badge](https://img.shields.io/badge/Platforms:-0E1116?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/%20-0E1116?style=flat-square&logo=apple)
 ![Static Badge](https://img.shields.io/badge/%20-0E1116?style=flat-square&logo=windows)
