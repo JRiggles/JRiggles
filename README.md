@@ -10,9 +10,9 @@
 [![Static Badge](https://img.shields.io/badge/LabVIEW-0E1116?style=flat-square&logo=labview&logoColor=FFDB00)](https://www.ni.com/en-us/shop/labview.html)
 [![Static Badge](https://img.shields.io/badge/HTML-0E1116?style=flat-square&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Static Badge](https://img.shields.io/badge/CSS-0E1116?style=flat-square&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Static Badge](https://img.shields.io/badge/Javascript-0E1116?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Static Badge](https://img.shields.io/badge/Pug-0E1116?style=flat-square&logo=pug&logoColor=A86454)](https://pugjs.org/)
 [![Static Badge](https://img.shields.io/badge/Sass-0E1116?style=flat-square&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
-[![Static Badge](https://img.shields.io/badge/Javascript-0E1116?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Static Badge](https://img.shields.io/badge/jQuery-0E1116?style=flat-square&logo=jquery&logoColor=0769AD)](https://jquery.com/)
 
 [![Static Badge](https://img.shields.io/badge/Using:-0E1116?style=flat-square)]()
