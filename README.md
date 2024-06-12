@@ -14,6 +14,7 @@
 [![Static Badge](https://img.shields.io/badge/Pug-0E1116?style=flat-square&logo=pug&logoColor=A86454)](https://pugjs.org/)
 [![Static Badge](https://img.shields.io/badge/Sass-0E1116?style=flat-square&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
 [![Static Badge](https://img.shields.io/badge/jQuery-0E1116?style=flat-square&logo=jquery&logoColor=0769AD)](https://jquery.com/)
+[![Static Badge](https://img.shields.io/badge/toml-0E1116?style=flat-square&logo=toml&logoColor=9C4121)](https://toml.io/)
 
 [![Static Badge](https://img.shields.io/badge/Using:-0E1116?style=flat-square)]()
 [![Static Badge](https://img.shields.io/badge/Aseprite-0E1116?style=flat-square&logo=aseprite&logoColor=7D929E)](https://www.aseprite.org/)
