@@ -42,7 +42,7 @@
 [![Static Badge](https://img.shields.io/badge/Codepen-0E1116?style=flat-square&logo=codepen&logoColor=FFFFFF)](https://codepen.io/jriggles)
 [![Static Badge](https://img.shields.io/badge/Itch.io-0E1116?style=flat-square&logo=itchdotio&logoColor=FA5C5C)](https://sudo-whoami.itch.io)
 [![Static Badge](https://img.shields.io/badge/Linkedin-0E1116?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/john-riggles-a6163751/)
-[![Static Badge](https://img.shields.io/badge/Mastodon-0E1116?style=flat-square&logo=mastodon&logoColor=3088D4)](https://mastodon.social/@sudo_whoami)
+[![Static Badge](https://img.shields.io/badge/Mastodon-0E1116?style=flat-square&logo=mastodon&logoColor=6364FF)](https://mastodon.social/@sudo_whoami)
 [![Static Badge](https://img.shields.io/badge/StackOverflow-0E1116?style=flat-square&logo=stackoverflow&logoColor=F48024)](https://stackoverflow.com/users/8512262/jriggles)
 
 
