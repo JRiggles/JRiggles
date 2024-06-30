@@ -30,6 +30,9 @@
 [![Static Badge](https://img.shields.io/badge/Crystal-0E1116?style=flat-square&logo=crystal&logoColor=FFFFFF)](https://crystal-lang.org/)
 [![Static Badge](https://img.shields.io/badge/Godot-0E1116?style=flat-square&logo=godot-engine&logoColor=478CBF)](https://godotengine.org/)
 [![Static Badge](https://img.shields.io/badge/Lua-0E1116?style=flat-square&logo=lua&logoColor=2C2D72)](https://www.lua.org/)
+[![Static Badge](https://img.shields.io/badge/Mongodb-0E1116?style=flat-square&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![Static Badge](https://img.shields.io/badge/Node-0E1116?style=flat-square&logo=node.js&logoColor=5FA04E)](https://www.nodejs.org/)
+
 
 [![Static Badge](https://img.shields.io/badge/Rusty%20with:-0E1116?style=flat-square)]()
 [![Static Badge](https://img.shields.io/badge/Arduino-0E1116?style=flat-square&logo=arduino&logoColor=00878F)](https://www.arduino.cc/)
