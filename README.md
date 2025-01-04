@@ -1,4 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![jriggles's Stats](https://github-readme-stats.vercel.app/api?username=jriggles&theme=nord&show_icons=true&hide_border=true&count_private=true&bg_color=90,0e1116,151A21&hide_rank=true) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&theme=nord&hide_progress=true&hide_border=true&bg_color=90,0e1116,151A21)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jriggles&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title=My%20Stats&bg_color=90,0e1116,151A21&hide_rank=true" alt="JRiggles stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&theme=nord&hide_progress=true&hide_border=true&bg_color=90,0e1116,151A21" alt="Top languages"/>
+</div>
 
 [![Static Badge](https://img.shields.io/badge/Languages:-0E1116?style=flat-square)]()
 [![Static Badge](https://img.shields.io/badge/Python-0E1116?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
@@ -16,8 +23,9 @@
 [![Static Badge](https://img.shields.io/badge/Aseprite-0E1116?style=flat-square&logo=aseprite&logoColor=7D929E)](https://www.aseprite.org/)
 [![Static Badge](https://img.shields.io/badge/Git-0E1116?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![Static Badge](https://img.shields.io/badge/GitHub-0E1116?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/)
-[![Static Badge](https://img.shields.io/badge/zsh-0E1116?style=flat-square&logo=zsh&logoColor=4D4D4D)](https://www.zsh.org/)
+[![Static Badge](https://img.shields.io/badge/zsh-0E1116?style=flat-square&logo=zsh&logoColor=6F6F6F)](https://www.zsh.org/)
 [![Static Badge](https://img.shields.io/badge/KiCad-0E1116?style=flat-square&logo=kicad&logoColor=4F2683)](https://www.kicad.org/)
+![Static Badge](https://img.shields.io/badge/Markdown-0E1116?style=flat-square&logo=markdown&logoColor=EEEEEE)
 
 [![Static Badge](https://img.shields.io/badge/Learning:-0E1116?style=flat-square)]()
 [![Static Badge](https://img.shields.io/badge/Crystal-0E1116?style=flat-square&logo=crystal&logoColor=FFFFFF)](https://crystal-lang.org/)
