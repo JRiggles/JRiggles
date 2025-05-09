@@ -1,12 +1,17 @@
-<!-- ![jriggles's Stats](https://github-readme-stats.vercel.app/api?username=jriggles&theme=nord&show_icons=true&hide_border=true&count_private=true&bg_color=90,0e1116,151A21&hide_rank=true) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&theme=nord&hide_progress=true&hide_border=true&bg_color=90,0e1116,151A21)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=jriggles&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title=My%20Stats&bg_color=90,0e1116,151A21&hide_rank=true" alt="JRiggles stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriggles&theme=nord&hide_progress=true&hide_border=true&bg_color=90,0e1116,151A21" alt="Top languages"/>
 </div>
 
+Hi, I'm John! 
+
+I'm an audio and electronics engineer-turned software engineer. I spend most of my workday writing Python with occasional stints of LabVIEW. I also do a bit of web development and creative hardware design, and I've written a few extensions for <a href="https://www.aseprite.org/" target="_blank">Aseprite</a> which you can find on my itch.io page.
+
+My most popular Aseprite extension is <a href="https://sudo-whoami.itch.io/lospec-palette-importer" target="_blank">Lospec Palette Importer</a>, which (as the name suggests) lets you import color palettes from <a href="https://lospec.com" target="_blank">Lospec</a> into Aseprite. All of my extensions are avaible for free or "pay what you want" - please consider donating if you find them useful!
+
+You can check out my personal site at <a href="https://jriggl.es" target="_blank">jriggl.es</a> to learn more about me and my projects.
+
+<!--
 [![Static Badge](https://img.shields.io/badge/Languages:-0E1116?style=flat-square)]()
 [![Static Badge](https://img.shields.io/badge/Python-0E1116?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![Static Badge](https://img.shields.io/badge/LabVIEW-0E1116?style=flat-square&logo=labview&logoColor=FFDB00)](https://www.ni.com/en-us/shop/labview.html)
@@ -41,6 +46,7 @@
 [![Static Badge](https://img.shields.io/badge/Ruby-0E1116?style=flat-square&logo=ruby&logoColor=CC342D)](https://www.ruby-lang.org/)
 [![Static Badge](https://img.shields.io/badge/PHP-0E1116?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)
 [![Static Badge](https://img.shields.io/badge/svn-0E1116?style=flat-square&logo=subversion&logoColor=809CC9)](https://subversion.apache.org/)
+-->
 
 [![Static Badge](https://img.shields.io/badge/Find%20me%20on:-0E1116?style=flat-square)]()
 [![Static Badge](https://img.shields.io/badge/Codepen-0E1116?style=flat-square&logo=codepen&logoColor=FFFFFF)](https://codepen.io/jriggles)
