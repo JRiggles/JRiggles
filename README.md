@@ -5,7 +5,7 @@
 
 Hi, I'm John! 
 
-I'm an audio and electronics engineer-turned software engineer. I spend most of my workday writing Python with occasional stints of LabVIEW. I also do a bit of web development and creative hardware design, and I've written a few extensions for <a href="https://www.aseprite.org/" target="_blank">Aseprite</a> which you can find on my itch.io page.
+I'm an audio and electronics engineer-turned software engineer. I spend most of my workday writing Python with occasional stints of LabVIEW. I also do a bit of web development, pixel art, and creative hardware design, and I've written a few extensions for <a href="https://www.aseprite.org/" target="_blank">Aseprite</a> which you can find on my itch.io page.
 
 My most popular Aseprite extension is <a href="https://sudo-whoami.itch.io/lospec-palette-importer" target="_blank">Lospec Palette Importer</a>, which (as the name suggests) lets you import color palettes from <a href="https://lospec.com" target="_blank">Lospec</a> into Aseprite. All of my extensions are avaible for free or "pay what you want" - please consider donating if you find them useful!
 
